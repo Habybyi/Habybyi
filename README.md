@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Habybyi/Habybyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my own portfolio
+- 🌱 I’m currently learning webdevelopment
+- 📫 How to reach me: adam.hyben@gmail.com
+- ⚡ My discord: Habybyi#0612
 
-Here are some ideas to get you started:
+## ✔️ Things I already done / know
+## 🔺 Things I'm working on / Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Launages
+- ✔️ html5
+- ✔️ Css
+- 🔺 Python
+- 🔺 React
+- 🔺 jQuery
+- 🔺 JavaScript
+
+## 💻 Launages I would love to know in future
+- MySQL
+- PHP
+- React native
+- TypeScript
+
+## 🦾 Projects
+- I didn't to that mutch just some scritps for a game
+- But I'm planing something big so stay with me and come with me on the journey
