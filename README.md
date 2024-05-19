@@ -27,11 +27,6 @@
 - I didn't to that mutch just some scritps for a game
 - But I'm planing something big so stay with me and come with me on the journey
 
-## Certificates I have
-- HTML5
-- CSS
-- Itroduction to typescript
-- Itroduction to javascript
 
 ## Protocols I'm want to learn and implement in my code
 
