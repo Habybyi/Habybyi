@@ -11,7 +11,7 @@
 
 ## 💻 Launages 
 - ✔️ html5
-- ✔️ Css
+- ✔️ Css (but no 100% )
 - 🔺 Python
 - 🔺 React
 - 🔺 jQuery
