@@ -24,6 +24,8 @@
 - TypeScript
 
 ## 🦾 Projects
+- My protfolio [adamhyben.sk]
+
 - I didn't to that mutch just some scritps for a game
 - But I'm planing something big so stay with me and come with me on the journey
 
