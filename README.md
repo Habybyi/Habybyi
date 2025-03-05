@@ -11,18 +11,10 @@
 
 ## 💻 Technologies I would love to learn
 - AI / MC learning
+- SIP
 
 ## 🦾 Projects
 - My protfolio [adamhyben.sk]
-- Online coding exam project
 
-- I didn't to that mutch just some scritps for a game
+- I didn't to that mutch just some scritps for a game => fivem
 - But I'm planing something big so stay with me and come with me on the journey
-
-
-## Protocols I'm want to learn and implement in my code
-
-- API
-- TCP
-- UPD
-- SIP
