@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on my SOČ Project
-- 🌱 I’m currently learning web app development / cyber security / networking
+- 🌱 I’m currently learning MC learning / cyber security / networking
 - ⚡ My e-mail: adam.hyben@gmail.com 
 - 📫 You can reach me through my discord: Habybyi#0612
 - ⚠️ I'm only 17 years old
