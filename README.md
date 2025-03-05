@@ -4,18 +4,15 @@
 - 🌱 I’m currently learning web app development / cyber security / networking
 - ⚡ My e-mail: adam.hyben@gmail.com 
 - 📫 You can reach me through my discord: Habybyi#0612
-- ⚠️ I'm only 16 years old
+- ⚠️ I'm only 17 years old
 
 ## 💻 Launages I knoww
 - ✔️ html5
 - ✔️ Css 
 - ✔️ React
 
-## 💻 Launages I would love to know in future or learing 
-- MySQL
-- PHP
-- React native
-- TypeScript
+## 💻 Technologies I would love to learn
+- AI / MC learning
 
 ## 🦾 Projects
 - My protfolio [adamhyben.sk]
