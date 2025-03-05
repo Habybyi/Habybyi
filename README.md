@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning MC learning / cyber security / networking
 - ⚡ My e-mail: adam.hyben@gmail.com 
-- 📫 You can reach me through my discord: Habybyi#0612
+- 📫 You can reach me through my discord: habybyi
 - ⚠️ I'm only 17 years old
 
 ## 💻 Launages I knoww
