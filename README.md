@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning MC learning / cyber security / networking
 - ✉️ My e-mail: adam.hyben@gmail.com 
 - 📫 You can reach me through my discord: habybyi
-- 👤 I'm only 17 years old
+- 👤 I'm 17 years old
 
 ## 💻 Technologies / languages I know
 - ✔️ html5
