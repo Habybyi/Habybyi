@@ -8,7 +8,7 @@
 - ✔️ html5
 - ✔️ Css 
 - ✔️ React
-- ✔️ lua (fivem libery)
+- ✔️ lua (fivem  library)
 
 ## 💻 Technologies / languages I'm able to use
 *Legend: I known how it's works, but don't know it that well*
