@@ -1,43 +1,63 @@
-### Hi there 👋
-- 🌱 I’m currently learning MC learning / cyber security / networking
-- ✉️ My e-mail: adam.hyben@gmail.com 
-- 📫 You can reach me through my discord: habybyi
-- 👤 I'm 17 years old
+<h1 align="left">Hola amigos 👋</h1>
 
-## 💻 Technologies / languages I know
-- ✔️ html5
-- ✔️ Css 
-- ✔️ React
-- ✔️ lua (fivem  library)
+###
 
-## 💻 Technologies / languages I'm able to use
-*Legend: I known how it's works, but don't know it that well*
+<div align="center">
+  <a href="https://www.linkedin.com/in/adam-hyben-01b7892aa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/kEBReZxyfE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/delahyben/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-- ✔️ Pyhon (NumPy, Pandas)
-- ✔️ SQL
-- ✔️ PhP
+###
 
+<p align="left">I'm high school student in Slovakia. Currently I'm developing my skills in AI, LLM, Neural networks</p>
 
-## 💻 Technologies / languages I'm currently learning 
-- AI / MC learning
-- Python (numpy, pandas)
+###
 
-## 🦾 Projects
-- My protfolio [adamhyben.sk]
-    - My web doesn't have a great graphic design  but it was created to show I can create a simple design with ReactJS
- 
-- Game Selector
-    - Is simple project where I started learning ReactJS
-    - From this project I learned how to use difrect functions and hooks
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=habybyi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-- All lua scripts
-    - My scripts in lua were created for specific game called fivem
-    - It was my "fisrt real programing" where I was introduced to math and logic problems
+###
 
- 
-## Current Project
-*I'm not currenty working on any new script except some script for the game, but I'm learning*
-*a new technologie Machine Learning and Artificial Intelligence (ML and AI).*
+<h2 align="left">Technologies 🤖</h2>
 
-- *I'm planing to create some simple script for image recognition and data prediction*
-- *Currently learning from course from roadmap.sh*
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habybyi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habybyi/habybyi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habybyi/habybyi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/habybyi/habybyi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
