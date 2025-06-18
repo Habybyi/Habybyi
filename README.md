@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/adam-hyben-01b7892aa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I'm high school student in Slovakia. Currently I'm developing my skills in AI, LLM, Neural networks</p>
+<p align="left">🎓 IT high school student (SSOSTA Poprad, Slovakia)  <br>🤖 AI enthusiast currently focused on building personal projects  <br>💻 I work mainly with React, Node.js, Python & Lua<br>🧠 Creating my own local AI assistant (like Jarvis)  <br><br>🌍 Trying to be multilingual – I communicate in 🇬🇧 🇸🇰 🇪🇸<br>🚀 Always learning, always building. I love solving real problems with code and creativity.</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=habybyi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habybyi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
